@@ -91,6 +91,11 @@ This project was independently developed by the following developers:
 - **Github**: [@Nav-hue](https://github.com/Nav-hue)
   <br><br />
 
+**Neda Jamal**:
+
+- **Github**: [@Neda2020](https://github.com/Neda2020)
+  <br><br />
+
 **Golnaz Berenjian**:
 
 - **Github**: [@Golnaz8](https://github.com/Golnaz8)
