@@ -41,20 +41,23 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Golnaz8/.git
-   cd airquality_vs_health
+   git clone https://github.com/Golnaz8/Crowdfunding_ETL.git
+   cd Crowdfunding_ETL
 
-2. **Create virtual environment**:
+2. **Create virtual environment (on windows)**:
     ```bash
     python -m venv env
-    source env/bin/activate 
+    env\Scripts\activate
 
+3. **Install libraries**:
+    ```bash
+    pip install pandas numpy
 
 
 ## Screenshots
+This image shows the sketch of  ERD of the tables
 
-
-
+<img width="510" alt="image" src="https://github.com/user-attachments/assets/264dfc4b-72c0-441a-8627-e78c79dc3883">
 
 ## Technologies Used
 This project leverages several technologies to process and analyze election data efficiently:

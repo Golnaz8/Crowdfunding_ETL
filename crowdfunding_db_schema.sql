@@ -40,3 +40,9 @@ CREATE TABLE campaign (
     category_id VARCHAR(10) REFERENCES category(category_id),
     subcategory_id VARCHAR(10) REFERENCES subcategory(subcategory_id)
 );
+
+-- Display the structure of each table
+SELECT * FROM category;
+SELECT * FROM subcategory;
+SELECT * FROM contacts;
+SELECT * FROM campaign;
