@@ -1,6 +1,9 @@
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
-[![pandas](https://img.shields.io/badge/pandas-1.3.3-red.svg)](https://pandas.pydata.org/) 
+[![pandas](https://img.shields.io/badge/pandas-1.3.3-red.svg)](https://pandas.pydata.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-6.3.0-brightgreen.svg)](https://jupyter.org/install)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.4-blue.svg)](https://www.postgresql.org/)
+[![pgAdmin](https://img.shields.io/badge/pgAdmin-4.30-orange.svg)](https://www.pgadmin.org/)
+
 
 
 
@@ -55,9 +58,13 @@ To run this project locally, follow these steps:
 
 
 ## Screenshots
-This image shows the sketch of  ERD of the tables
+This image shows the sketch of  ERD of the tables:
 
 <img width="510" alt="image" src="https://github.com/user-attachments/assets/264dfc4b-72c0-441a-8627-e78c79dc3883">
+
+This image shows our PgAdmin Database and Tables and Data without any error:
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/229e402d-4aaf-4b61-a28a-0918a30f1ad0">
 
 ## Technologies Used
 This project leverages several technologies to process and analyze election data efficiently:
